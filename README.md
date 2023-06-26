@@ -17,6 +17,5 @@
 <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 
 ### Contact 💬
-<img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://beong2306@gmail.com"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:beong2306@gmail.com)
 
