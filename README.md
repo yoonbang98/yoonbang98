@@ -37,8 +37,8 @@
   - Streamlined the workflow for RNA-based therapeutics research.  
 
 ## 🛠 **Skills**  
-- **Programming:** Python, MATLAB  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white">
-- **AI & ML Frameworks:** PyTorch, TensorFlow   <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+- **Programming:** <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white"> <img src ="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white">
+- **AI & ML Frameworks:** <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 
 ## Algorithms
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beong0717)](https://solved.ac/beong0717/)
