@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&fontSize=90)
-🔬 **AI Researcher | Bioinformatics | Deep Learning**  
+## 🔬 **AI Researcher | Bioinformatics | Deep Learning**  
 
 ## 🏫 **Education**  
 - **KAIST (Korea Advanced Institute of Science and Technology)**  
