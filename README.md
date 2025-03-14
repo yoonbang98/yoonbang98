@@ -1,10 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&fontSize=90)
-## 🔬 **AI Researcher | Bioinformatics | Deep Learning**  
+## 🔬 **AI Researcher | Deep Learning | Bioinformatics**  
 
 ## 🏫 **Education**  
 - **KAIST (Korea Advanced Institute of Science and Technology)**  
   - M.S. in Bio and Brain Engineering (2023.03 - 2025.02)  
-  - Research Focus: **Active Learning for Multi-Step Enzyme Reaction Optimization**  
+  - Research Focus: **Active Learning**
+  - Research Title: **Active Learning for Multi-Step Enzyme Reaction Optimization**  
   - GPA: **4.17/4.3**  
 - **Korea University**  
   - B.S. in Biomedical Engineering & AI Convergence (2018.03 - 2023.02)  
