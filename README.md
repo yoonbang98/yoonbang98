@@ -5,7 +5,7 @@
 - **KAIST (Korea Advanced Institute of Science and Technology)**  
   - M.S. in Bio and Brain Engineering (2023.03 - 2025.02)  
   - Research Focus: **Active Learning**
-  - Research Title: **Active Learning for Multi-Step Enzyme Reaction Optimization**  
+  - Research Title: **Hybrid active learning strategy for optimizing experimental conditions in cell-free enzyme cascades**  
   - GPA: **4.17/4.3**  
 - **Korea University**  
   - B.S. in Biomedical Engineering & AI Convergence (2018.03 - 2023.02)  
@@ -16,7 +16,7 @@
 - **🔬 Active Learning for Enzyme Reaction Optimization** (2023.12 - 2024.12)  
   - Developed a **hybrid query strategy (HAL)** combining model-independent and model-dependent approaches.  
   - Aiming to **reduce time and cost** in biological experiments.  
-  - **First-author journal submission planned for 2025.**  
+  - **First-author journal submission planned for 2025 March.**  
 
 - **🕹️ Game Outcome Prediction with Graph Models** (2023.10 - 2023.12)  
   - Built a **heterogeneous graph** (game nodes, user nodes) to improve game outcome prediction.  
